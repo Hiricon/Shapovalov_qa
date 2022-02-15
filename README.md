@@ -2,7 +2,7 @@
 
 ---
 
-[Пример моих тест кейсов](https://docs.google.com/spreadsheets/d/1mlKg3JJSZHA7snefFtaHQxD9e2umKZ8DgulEq5SbCPw/edit?usp=sharing)
+[Пример моих тест-кейсов](https://docs.google.com/spreadsheets/d/1mlKg3JJSZHA7snefFtaHQxD9e2umKZ8DgulEq5SbCPw/edit?usp=sharing)
 
 ---
 
